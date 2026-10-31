@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>تخطيط الموقع - أمنية</title>
+</head>
+<body>
+<h1>التخطيط للمواقع الإلكترونية</h1>
+<p>اسم الطالبة: <strong>أمنية محمد سعد المتولي</strong></p>
+
+<h2>المقدمة</h2>
+<p>التخطيط هو <strong>اول واهم خطوة</strong> قبل عمل اي موقع، لانه بيساعدنا نعرف هدف الموقع وازاي هيكون شكله.</p>
+
+<h2>مراحل التخطيط</h2>
+<p>في البحث ده اتكلمت عن <b>تحديد الهدف</b> و <b>رسم خريطة الموقع</b> ودي اهم حاجة عشان الموقع يطلع منظم.</p>
+
+<img src="planning.jpg" width="300">
+
+<h3>جدول مقارنة</h3>
+<table border="1">
+<tr>
+<th>المرحلة</th>
+<th>بتعمل ايه</th>
+<th>اهميتها</th>
+</tr>
+<tr>
+<td>تحديد الهدف</td>
+<td>نحدد الموقع معمول ليه</td>
+<td>مهمة جدا</td>
+</tr>
+<tr>
+<td>Sitemap</td>
+<td>نرتب الصفحات</td>
+<td>مهمة</td>
+</tr>
+</table>
+
+<h2>المراجع</h2>
+<a href="https://developer.mozilla.org/">MDN</a><br>
+<a href="https://www.w3schools.com/">W3Schools</a><br>
+<a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a>
+
+</body>
+</html>
